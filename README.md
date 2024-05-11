@@ -21,6 +21,7 @@
 * [Apply](#apply)
 * [Helper](#helper)
 * [Docs](#docs)
+* [Grub Theme / Glass / Series](#grub-theme--glass--series)
 
 
 
@@ -170,3 +171,14 @@ sudo grub-mkconfig -o /boot/grub/grub.cfg
 | --- |
 | [main](https://github.com/samwhelp/grub-theme-score-remix/tree/main) |
 | [gh-pages](https://github.com/samwhelp/grub-theme-score-remix/tree/gh-pages) |
+
+
+
+
+## Grub Theme / Glass / Series
+
+| Base | Remix |
+| ---- | ----- |
+| [grub-theme-score](https://github.com/samwhelp/grub-theme-score) | [grub-theme-score-remix](https://github.com/samwhelp/grub-theme-score-remix) |
+| [grub-theme-glass](https://github.com/samwhelp/grub-theme-glass) | [grub-theme-glass-remix](https://github.com/samwhelp/grub-theme-glass-remix) |
+| [grub-theme-cover](https://github.com/samwhelp/grub-theme-cover) | [grub-theme-cover-remix](https://github.com/samwhelp/grub-theme-cover-remix) |
