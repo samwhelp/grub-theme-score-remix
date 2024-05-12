@@ -22,6 +22,8 @@
 * [Helper](#helper)
 * [Docs](#docs)
 * [Grub Theme / Glass / Series](#grub-theme--glass--series)
+* [Demo / Grub Theme / Image Creation](#demo--grub-theme--image-creation)
+
 
 
 
