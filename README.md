@@ -21,8 +21,8 @@
 * [Apply](#apply)
 * [Helper](#helper)
 * [Docs](#docs)
-* [Grub Theme / Glass / Series](#grub-theme--glass--series)
-* [Demo / Grub Theme / Image Creation](#demo--grub-theme--image-creation)
+* [Grub Theme / Glass Series](#grub-theme--glass-series)
+* [Grub Theme / Image Creation](#grub-theme--image-creation)
 
 
 
@@ -176,7 +176,7 @@ sudo grub-mkconfig -o /boot/grub/grub.cfg
 
 
 
-## Grub Theme / Glass / Series
+## Grub Theme / Glass Series
 
 | Base | Remix |
 | ---- | ----- |
@@ -189,7 +189,7 @@ sudo grub-mkconfig -o /boot/grub/grub.cfg
 
 
 
-## Demo / Grub Theme / Image Creation
+## Grub Theme / Image Creation
 
 | Link | GitHub |
 | ---- | ------ |
